@@ -1,2 +1,4 @@
-<?teste?>
+<?php phpinfo(); ?>
+<?="Teste";?>
+
 
